@@ -1,8 +1,8 @@
 export const products = [
   {
-    id: 57,
+    id: 50,
     title: "Spring and Summershoes",
-    price: 25,
+    price: 55,
     quantity: 4,
     total: 70,
     discountPercentage: 8.71,
